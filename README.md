@@ -1,1 +1,12 @@
-# Stock-Prediction
+- Built a stock market dashboard using Streamlit  
+- Fetches real-time stock data using the yfinance API  
+- Visualizes historical stock data using Plotly charts  
+- Integrates financial statements using the Alpha Vantage API  
+- Performs news sentiment analysis using StockNews  
+- Predicts stock price movement using Logistic Regression from scikit-learn  
+- Demonstrates full-stack development with:  
+  - Data handling  
+  - API integration  
+  - Data visualization  
+  - Basic machine learning  
+- Delivered through a clean and interactive web app interface 
